@@ -1,4 +1,4 @@
-# Страница интернет-магазина (функциональный компонент) store-class
+# Страница интернет-магазина (class-based компонент) store-class
 
 This project was bootstrapped with Create React App
 

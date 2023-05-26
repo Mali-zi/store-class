@@ -28,14 +28,14 @@ class App extends Component {
           <div className="highlight-overlay" />
         </div>
         <div className="window">
-          <ShopItemFunc item={item} />
+          <ShopItemClass item={item} />
         </div>
       </div>
     );
   };
 };
 
-class ShopItemFunc extends Component {
+class ShopItemClass extends Component {
   render() {
     return (
       <div class="main-content">
@@ -53,7 +53,7 @@ class ShopItemFunc extends Component {
         </div>
       </div>
     );
-  }; 
+  };
 };
 
 export default App;
